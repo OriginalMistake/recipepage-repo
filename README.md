@@ -86,6 +86,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - [W3Schools](https://www.w3schools.com/html/html_lists.asp) - This helped me differenciate between an ordered and unordered tag for the list.
 - [W3Schools](https://www.w3schools.com/html/html_tables.asp) - Used to help with the layout of the nutrition table.
+- [SheCodes](https://www.shecodes.io/athena/168627-how-to-change-the-color-of-an-hr-element-using-css#:~:text=in%201.88%20seconds-,To%20change%20the%20color%20of%20an%20(horizontal%20rule,element%2C%20you%20can%20use%20CSS.&text=You%20can%20replace%20%22blue%22%20with,element%20to%20change%20its%20color.) - Helped me add a section seperator/horizontal line.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
