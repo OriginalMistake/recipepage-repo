@@ -85,7 +85,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ### Useful resources
 
 - [W3Schools](https://www.w3schools.com/html/html_lists.asp) - This helped me differenciate between an ordered and unordered tag for the list.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [W3Schools](https://www.w3schools.com/html/html_tables.asp) - Used to help with the layout of the nutrition table.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
