@@ -18,10 +18,6 @@ body {
     padding: 40px;
 }
 
-.card hr {
-    border-color: #e4ded8;
-}
-
 .card img {
     max-width: 100%;
     max-height: 100%;
@@ -39,20 +35,56 @@ body {
     font-family: 'Outfit';
     font-weight: 400;
     font-size: 16px;
+    color: #4f4e4d;
+}
+
+hr {
+   border-top: #e4ded8;
 }
 
 h2 {
     font-family: 'Young Serif';
     font-weight: 500;
     color: #854632;
+    font-size: 30px;
 }
 
-li, td {
+/* li {
     margin-bottom: 10px;
     margin-right: 15px;
     font-family: 'Outfit';
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
+    color: #4f4e4d;
+} */
+
+li {
+    font-family: 'Outfit';
+    font-weight: 400;
+    color: #4f4e4d;
+}
+
+li, p {
+    line-height: 150%;
+}
+
+ul, ol {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+ol {
+    padding-left: 24px;
+}
+
+ol li{
+    padding-left: 12px;
+}
+
+ol li::marker {
+    color: #c55036;
+    font-weight: 700;
 }
 
 #prep {
@@ -70,5 +102,13 @@ li, td {
     color: #7b284f;
 }
 
+.nutrition {
+    display: flex;
+    flex-direction: row;
+}
 
+.nutrition p {
+    flex: 1;
+    margin: 8px 0;
+}
 
