@@ -73,7 +73,7 @@ ol li{
 }
 
 ol li::marker {
-    color: #c55036;
+    color: #854632;
     font-weight: 700;
 }
 
@@ -102,3 +102,7 @@ ol li::marker {
     margin: 8px 0;
 }
 
+.nutrition #num {
+    color: #854632;
+    font-weight: 700;
+}
